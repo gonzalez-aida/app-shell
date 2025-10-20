@@ -1,0 +1,24 @@
+{
+  "name": "Explora el mundo",
+  "short_name": "Explora",
+  "description": "Tu guía de viajes personal.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#007bff",
+  "theme_color": "#007bff",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
