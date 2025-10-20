@@ -8,19 +8,17 @@
 
 ### Instalación
 
+#### Clonar repositorio de GitHub
+- https://github.com/gonzalez-aida/app-shell
+
 ```bash
+
 # Instalar dependencias
 npm install
 
 # Ejecutar en desarrollo 
 npm run dev
 # Se abrirá en http://localhost:5173
-
-# Compilar para producción
-npm run build
-
-# Previsualizar build
-npm run preview
 ```
 
 ---
@@ -102,4 +100,8 @@ serve -s dist -p 8000
 ```bash
 # Si ya tienes node_modules instalado
 npm run dev
+
 ```
+
+### Opción 4: En despliegue
+- https://app-shell-no1l.onrender.com
